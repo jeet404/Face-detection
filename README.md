@@ -8,10 +8,6 @@ The objective of the program given is to detect object of face in real time and 
 2. Make sure that numpy is running in your python then try to install opencv.
 3. Put the haarcascade_eye.xml & haarcascade_frontalface_default.xml files in the same folder.(Just google it.)
 
-### Author:
-
-*Name*  : Jeet Patel
-
-*Course* : BCA Sem-3 
-
-*Age*   : 18 years
+```
+python main.py
+```
